@@ -1,8 +1,10 @@
 # 521-People-Mandarin-Voiceprint-Recognition-Speech-Data-by-Mobile-Phone
-https://www.datatang.ai/datasets/1009
+
 
 ## Description
 Each person's time span is very long, which can better cover the sound features of a person in different periods and different states.
+
+For more details, please refer to the link: https://bit.ly/3C7786W
 
 ## Recording Environment
 quiet indoor environment, without echo
@@ -24,3 +26,6 @@ Mandarin
 
 ## Application Scenario
 Voiceprint Recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
