@@ -4,7 +4,7 @@
 ## Description
 Each person's time span is very long, which can better cover the sound features of a person in different periods and different states.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1009?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1009?source=Github
 
 ## Recording Environment
 quiet indoor environment, without echo
